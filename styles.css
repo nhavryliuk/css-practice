@@ -11,32 +11,32 @@ body {
 }
 
 .header {
-    background-color: lightblue; /* Задайте будь-який колір */
+    background-color: lightblue; 
     height: 30vh;
     display: flex;
-    justify-content: flex-start; /* Горизонтально зліва */
-    align-items: center; /* Вертикально по центру */
+    justify-content: flex-start; 
+    align-items: center; 
 }
 
 .main {
-    background-color: lightgreen; /* Задайте будь-який колір */
+    background-color: lightgreen; 
     height: 40vh;
     display: flex;
-    justify-content: center; /* Горизонтально по центру */
-    align-items: center; /* Вертикально по центру */
+    justify-content: center; 
+    align-items: center; 
 }
 
 .footer {
-    background-color: lightcoral; /* Задайте будь-який колір */
+    background-color: lightcoral; 
     height: 30vh;
     display: flex;
-    justify-content: flex-end; /* Горизонтально праворуч */
-    align-items: center; /* Вертикально по центру */
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .text {
-    font-size: 20px; /* Встановіть розмір шрифту */
-    color: #333; /* Встановіть колір тексту */
-    padding: 10px; /* Додайте відступи */
-    text-align: center; /* Вирівняти текст по центру */
+    font-size: 20px; 
+    color: #333; 
+    padding: 10px; 
+    text-align: center; 
 }
